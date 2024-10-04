@@ -2,6 +2,8 @@ package hu.bme.mit.spaceship;
 
 import java.util.Random;
 
+//SCR6QJ
+
 /**
 * Class storing and managing the torpedoes of a ship
 *
